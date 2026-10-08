@@ -1,0 +1,17 @@
+{
+  "work_order_id": "WO-1842",
+  "domain": "mail.example.com",
+  "dispatch_status": "completed",
+  "photos": [
+    {
+      "asset_id": "photo-front-panel",
+      "caption": "Replacement panel installed",
+      "url": "https://media.example.com/work-orders/WO-1842/panel.jpg"
+    }
+  ],
+  "technician_follow_up": "Send the completion gallery and care notes",
+  "exchanges": [
+    {"host": "mx1.provider.example", "priority": 10},
+    {"host": "mx2.provider.example", "priority": 20}
+  ]
+}
